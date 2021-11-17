@@ -26,7 +26,7 @@ The three dominant approaches in the early days of CC included Artificial Intell
 
 **Rule- based** creative computing was pioneered by Lejaren Hiller and Leonard Isaacson at the University of Illinois (1955-56). Hiller and Isaacson experimented with the Illiac Suite program and in turn transformed raw musical material and modified it to create rule-based results. This process is now known as the _"generator/modifier/selector"_ paradigm. 
 
-One of the most identifiable forms of **stochastic** music is through the use of the Markov Chain. It essentially is an overview of a sequence of events (in this case notes) and the probability of the notes that follow based on previous notes. The rule can be followed as follows: 
+One of the most identifiable forms of **stochastic** music is through the use of the Markov Chain. It is an overview of a sequence of events (in this case notes) and the probability of the notes that follow based on previous notes. The rule can be followed as follows: 
 1.) Take corpus of chords
 2.) Calculate probability distribution for chords to follow a particular chord
 3.) Define the first chord or make a random choice
