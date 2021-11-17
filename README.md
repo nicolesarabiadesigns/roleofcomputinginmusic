@@ -1,6 +1,7 @@
 # Origin-of-Creative-Computing-in-Music
 Creative computing has become prolific to the modern day music industry. One of it's most dominant sub-groups includes Algorithmic Composition (a.k.a. Musical Metacreation). This technique has some conflicting definitions between the eras, as either : _"the process of using some formal process to make music with minimal human intervention"_ (Alpern, 1995) or _"endowing machines with the ability to achieve creative musical tasks, such as composition, interpretation, improvisation, accompaniment, mixing, etc. It covers all dimensions of the theory and practice of computational generative music systems, ranging from purely artistic approaches to purely scientific ones, inclusive of discourses relevant to this topic from the humanities"_ (Philippe Pasquier, 2017). Whilst it's presence has become more obvious over the past century, it's origins trace back far longer than expected. 
 
+
 **ORIGIN** - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 One of the earliest accounts of optimising the creation of music dates back to the Ancient Greeks. Pythagoras is thought to show a relation between nature and harmony of sounds in music. 
@@ -8,6 +9,7 @@ One of the earliest accounts of optimising the creation of music dates back to t
 _"The word music had a much wider meaning to the Greeks than it has to us. In the teachings of Pythagoras and his followers, music was inseperable from numbers, which were thought to be the key to the whole spiritual and physical universe. So the system of musical sounds and rhythms, being ordered by numbers exemplified the harmony of the cosmos and corresponded to it" (Grout, 1996)._
 
 This mathematical process emphasised the importance of intervals and modes, but it did not conjure music automatically- human involvement in the form of decision making was still essential to create music. 
+
 
 **INCORPORATION OF ALGORITHMS** - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -30,6 +32,7 @@ One of the most identifiable forms of **stochastic** music is through the use of
 3.) Define the first chord or make a random choice
 4.) Make a random choice of the next chord taking into an account probability distribution
 5.) Repeat step 4.
+
 
 **CONCLUSION AND PERSONAL THOUGHTS**  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
